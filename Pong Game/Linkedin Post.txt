@@ -1,0 +1,14 @@
+🎉 Excited to share my latest project: Heramb's Pong Game! 🎮
+
+I've built a classic Pong game using Python and Pygame, featuring:
+
+Two-player gameplay
+Special gadgets for each player
+Real-time scoreboard and win screen
+This project has been an incredible learning experience, enhancing my game development skills and understanding of event-driven programming.
+
+Special thanks to the S.M.D.S YouTube channel for the amazing tutorials and guidance that helped me bring this project to life!
+
+Check out the project on my GitHub and feel free to play and share your feedback!
+
+🔗 GitHub Repository
