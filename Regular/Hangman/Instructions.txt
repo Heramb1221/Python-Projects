@@ -1,0 +1,11 @@
+Instructions to Run the Hangman Game:
+
+1. Ensure you have Python installed on your system. You can download it from https://www.python.org/downloads/.
+
+2. Install the required packages by running:
+   pip install -r requirements.txt
+
+3. Run the hangman game script by executing the following command in your terminal or command prompt:
+   python hangman_game.py
+
+4. Follow the on-screen instructions to play the game. You will be asked to guess letters or words related to a randomly selected film from the list.
