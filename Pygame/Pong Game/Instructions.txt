@@ -1,0 +1,22 @@
+1)Install Pygame: Ensure you have pygame installed. You can install it using:
+
+pip install pygame
+
+2)Run the Code:
+
+1. Save the provided script as pong_game.py.
+2. Open a terminal or command prompt.
+3. Navigate to the directory where pong_game.py is saved.
+4. Run the script using:
+
+python pong_game.py
+
+3)Gameplay:
+
+1. Choose your gadget pair when prompted.
+2. Use the arrow keys for Player 2 (right paddle): UP to move up, DOWN to move down.
+3. Use the keys W and S for Player 1 (left paddle): W to move up, S to move down.
+4. Use the RIGHT and LEFT arrow keys for Player 2's gadgets.
+5. Use the D and A keys for Player 1's gadgets.
+
+The game continues until one of the players scores 3 points.

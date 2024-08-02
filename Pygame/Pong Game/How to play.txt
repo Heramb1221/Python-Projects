@@ -1,0 +1,23 @@
+How to Play
+
+1)Run the game:
+
+python pong_game.py
+
+2)Choose your gadget pair when prompted.
+
+3)Player 1 controls:
+
+W: Move paddle up
+S: Move paddle down
+D: Use gadget 1
+A: Use gadget 2
+
+4)Player 2 controls:
+
+UP ARROW: Move paddle up
+DOWN ARROW: Move paddle down
+RIGHT ARROW: Use gadget 1
+LEFT ARROW: Use gadget 2
+
+5)The game continues until one player scores 3 points.
